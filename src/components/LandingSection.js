@@ -47,7 +47,7 @@ const LandingSection = () => {
         </Heading> */}
         <p data-testid='currentDayOfTheWeek'>Current day of the week is: {currentDayOfWeek}</p>
         <p data-testid='currentUTCTime'>Current time in milliseconds: {currentTimeInMilliseconds}</p>
-        <a href='' data-testid="githubURL" >Github</a>
+        <a href='https://github.com/ola-torinmo/hngtask1.git' data-testid="githubURL" >Github</a>
       
         
       </VStack>
